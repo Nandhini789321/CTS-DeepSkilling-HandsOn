@@ -1,0 +1,12 @@
+package com.cts.junit;
+
+import org.junit.Test;
+import static org.junit.Assert.assertTrue;
+
+public class AppTest {
+
+    @Test
+    public void testSample() {
+        assertTrue(true);
+    }
+}
